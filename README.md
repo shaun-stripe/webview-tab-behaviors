@@ -4,8 +4,7 @@ Mobile platforms have browsers like Safari, Chrome, Firefox.  But there are
 also _WebViews_, which allow Apps to display pages in some limited/controlled
 manner.  They have varying levels of support for Tabs, which we track here.
 
-You can paste [test.js](test.js) into a DevTools console to test this behavior
-in WebViews below.
+Open <http://jsbin.com/latikiruva> in the browsers below to test.
 
 ## iOS
 
